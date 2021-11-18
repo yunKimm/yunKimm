@@ -1,5 +1,10 @@
-### Hi there 👋
+## Jiyun Kim (쁠린이)
+💐 SMWU Computer Science
 
+
+##### 😵 굴러가는중 😵
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdolsoon)](https://solved.ac/kimdolsoon)
 <!--
 **yunKimm/yunKimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
